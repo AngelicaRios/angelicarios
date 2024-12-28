@@ -1,7 +1,7 @@
 ### Olá!Eu sou Angelica👋🥰
--💼  Atualmente estou trabalhando em Suporte para roteadores.
+-💼  Atualmente estou trabalhando como Analista de Suporte Técnico em T.I.
 
--📚 Estou aprendendo sobre Rede de computadores e programação.
+-📚 Sou Graduada em Rede de computadores e soluções em Acronis.
 
 <div align="center">
   <a href="https://github.com/AngelicaRios">
