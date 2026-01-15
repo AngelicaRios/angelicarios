@@ -1,4 +1,8 @@
-# 👩🏻‍💻 Oiêeee, eu sou a Angelica!
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Oi%C3%AAeee%2C+eu+sou+a+Angelica!)](https://git.io/typing-svg)">
+  </a>
+</div>
 
 **`Analista de Suporte de T.I`**
 
